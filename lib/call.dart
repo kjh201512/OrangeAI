@@ -8,7 +8,7 @@ class CallScreen extends StatelessWidget {
         title: Text('긴급전화'),
       ),
       body: Center(
-        child: Text('긴급전화 화면'),
+        child: Text('긴급전화      화면'),
       ),
     );
   }
